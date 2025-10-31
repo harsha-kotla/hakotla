@@ -6,9 +6,7 @@ export default function Home() {
           <h1 className="text-4xl font-bold text-black sm:text-5xl">
             Harsha Kotla
           </h1>
-          <p className="text-lg text-black">
-            Hi, I'm Harsha!
-          </p>
+         
           <p className="text-lg text-black">
             I'm a senior at Bellarmine College Prep, and I'm interested in the intersection of artificial intelligence and other fields.
           </p>
