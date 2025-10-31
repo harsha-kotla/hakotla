@@ -18,7 +18,7 @@ export default function Home() {
           </p>
           <p className="text-lg text-black">
             I'm also building <a
-              href="https://x.com/harshak628"
+              href="wordmate.app"
               target="_blank"
               rel="noopener noreferrer"
               className="underline text-[#8B4513] hover:text-[#654321]"
