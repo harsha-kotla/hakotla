@@ -8,10 +8,10 @@ export default function Home() {
           </h1>
          
           <p className="text-lg text-black">
-            I'm a senior at Bellarmine College Prep, and I'm interested in the intersection of artificial intelligence and other fields.
+            I'm a senior at Bellarmine College Prep, and I'm interested in applying artificial intelligence to diverse domains.
           </p>
           <p className="text-lg text-black">
-            I'm currently fine-tuning NLP LLMs related to finance and working on skin cancer interpretability 
+            I'm currently fine-tuning NLP LLMs related to finance (earnings calls, financial news, SEC filings, etc.) and working on skin cancer interpretability 
             research to develop tools and methods to make AI models more transparent and understandable 
             in medical imaging applications.
 
@@ -22,7 +22,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
               className="underline text-[#8B4513] hover:text-[#654321]"
-            >WordMate</a>, to help people learn new words and improve their vocabulary more efficiently with AI.
+            >WordMate</a>, an AI-powered tool to help people learn language and improve communication more efficiently.
           </p>
           <p className="text-lg text-black">
             Connect with me on{" "}
