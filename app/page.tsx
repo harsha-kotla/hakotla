@@ -22,7 +22,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
               className="underline text-green-600 hover:text-green-700"
-            >WordMate</a>, an AI-powered tool to help people learn language and improve communication more efficiently.
+            >WordMate</a>, an AI-powered tool to help people learn language and improve communication more efficiently. Check out our <a href="https://wordmate.app/mission" target="_blank" rel="noopener noreferrer" className="underline text-green-600 hover:text-green-700">mission</a> to learn more.
           </p>
           <p className="text-lg text-black">
             Connect with me on{" "}
