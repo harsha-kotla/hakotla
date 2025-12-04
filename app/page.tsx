@@ -61,24 +61,22 @@ export default function Home() {
           <h1 className="text-4xl font-bold text-black sm:text-5xl">
             Harsha Kotla
           </h1>
-         
           <p className="text-lg text-black">
-            I'm a senior at Bellarmine College Prep, and I'm interested in applying artificial intelligence to diverse domains.
-          </p>
-          <p className="text-lg text-black">
-            I'm currently fine-tuning NLP LLMs related to finance (earnings calls, financial news, SEC filings, etc.) and working on skin cancer interpretability 
-            research to develop tools and methods to make AI models more transparent and understandable 
-            in medical imaging applications.
-
-          </p>
-          <p className="text-lg text-black">
-            I'm also building <a
+            I'm currently building <a
               href="https://wordmate.app"
               target="_blank"
               rel="noopener noreferrer"
               className="underline text-green-600 hover:text-green-700"
-            >WordMate</a>, an AI-powered tool to help people learn language and improve communication more efficiently. Check out our <a href="https://wordmate.app/mission" target="_blank" rel="noopener noreferrer" className="underline text-green-600 hover:text-green-700">mission</a> to learn more.
+            >WordMate</a>, an AI-powered tool to help people learn language and improve communication more efficiently. Check out WordMate's <a href="https://wordmate.app/mission" target="_blank" rel="noopener noreferrer" className="underline text-green-600 hover:text-green-700">mission</a> and <a href="https://wordmate.app/blog" target="_blank" rel="noopener noreferrer" className="underline text-green-600 hover:text-green-700">blog</a> to learn more.
           </p>
+       
+          <p className="text-lg text-black">
+            I'm also fine-tuning NLP LLMs related to finance (earnings calls, financial news, SEC filings, etc.) and performing research on how to best process financial markets. In addition, I'm working on skin cancer interpretability 
+            research to develop tools and methods to make AI models more transparent and understandable in medical imaging applications.
+
+          </p>
+         
+          
         </div>
       </main>
     </div>
