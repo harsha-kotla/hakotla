@@ -74,7 +74,7 @@ export default function Home() {
                   Web Development Intern
                 </span>
                 , Random Math — Jun–Aug 2024. Worked on database management and web development.
-                (Webflow, JavaScript, Python, SQL)
+                
               </li>
               {/* <li>
                   <span className="font-medium text-slate-100">
