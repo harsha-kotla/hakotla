@@ -73,8 +73,8 @@ export default function Home() {
                 <span className="font-medium text-slate-100">
                   Web Development Intern
                 </span>
-                , Random Math — Jun–Aug 2024. Shipped Random Math Flash
-                (Next.js, JavaScript, Python) for AMC/AIME prep.
+                , Random Math — Jun–Aug 2024. Worked on database management and web development.
+                (Webflow, JavaScript, Python, SQL)
               </li>
               {/* <li>
                   <span className="font-medium text-slate-100">
@@ -124,7 +124,10 @@ export default function Home() {
                 - published in Curieux Academic Journal (p. 180).
               </li>
               <li>
-                <span className="font-medium text-slate-100">Metfyre</span> —
+                <a href="https://metfyre.vercel.app"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={`font-medium text-white ${spaceLink}`}>Metfyre</a> —
                 AI study platform (Next.js): adaptive learning, flashcards,
                 active recall, content segmentation.
               </li>
